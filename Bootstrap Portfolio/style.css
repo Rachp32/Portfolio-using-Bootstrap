@@ -1,0 +1,50 @@
+body {
+      background-color: #F7ECCA;
+}
+
+.navbar-text {
+      color: #868A6A; 
+}
+
+.navbar-text {
+      display: ;
+}
+
+.jumbotron {
+      background-image: url(https://images.pexels.com/photos/2736497/pexels-photo-2736497.jpeg?auto=compress&cs=tinysrgb&w=600);
+      background-repeat: no-repeat; 
+      background-size: 60% auto;
+      background-position: center; 
+      padding-bottom: 10%;      
+}
+
+h1 {
+      padding-right: 20%;
+      color: #868A6A;
+}
+
+h5, .card-title {
+      color: #868A6A;    
+}
+
+p { 
+      color: #B35605;    
+      }
+
+#card-three {
+     background-image: url(https://images.pexels.com/photos/7193624/pexels-photo-7193624.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat; 
+    background-size: 90%;
+    background-position: center;
+}     
+
+footer {
+    grid-area: footer;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+    
+  }
+    
